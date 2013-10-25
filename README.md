@@ -7,3 +7,4 @@ All you need to do is pass the music directory path and parameter to arrange the
 Current features have following limitations : 
 * Works on files in root of directory
 * Works only on MP3 files
+* If there is a problem in middle of the process it can't rollback the already made changes
